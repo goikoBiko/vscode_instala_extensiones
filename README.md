@@ -31,3 +31,4 @@ Para la bikoSchool nos indicaron una serie de extensiones:
     // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
     "unwantedRecommendations": []
   }
+//video tutorial de la extensión prettier -> https://www.youtube.com/watch?v=ouNMLoyEqZw
